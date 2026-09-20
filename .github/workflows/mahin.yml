@@ -22,7 +22,7 @@ jobs:
       - name: Checkout Kernel Source
         uses: actions/checkout@v4
         with:
-          repository: 663388p000/exlinux-
+          repository: ududuudydyhheheh-arch/exlinux-
           path: kernel_root
           ref: ${{ github.event.inputs.BRANCH }}
           fetch-depth: 0
